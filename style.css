@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 15px;
+    
+   
+}
+h3{
+    color:black;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    line-height: normal;
+}
+body{
+    background-color: rgb(222, 255, 255);
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
